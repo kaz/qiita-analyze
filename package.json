@@ -21,5 +21,8 @@
     "cheerio": "^1.0.0-rc.3",
     "node-fetch": "^2.6.0",
     "table": "^5.4.6"
+  },
+  "bin": {
+    "analyze": "index.js"
   }
 }
