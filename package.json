@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kaz/qiita-analyze/issues"
   },
-  "homepage": "https://github.com/kaz/qiita-analyze#readme"
+  "homepage": "https://github.com/kaz/qiita-analyze#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0",
+    "table": "^5.4.6"
+  }
 }
